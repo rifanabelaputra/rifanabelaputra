@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello ! | i'm Rifa Nabela Putra
 
 ![rifanabelaputra](img/banner.png)
 <!--
